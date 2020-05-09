@@ -63,7 +63,7 @@ body, html{
 
 .ptext{
   position:absolute;
-  top:50%;
+  top:59%;
   width:100%;
   text-align:center;
   color:#000;
@@ -74,7 +74,7 @@ body, html{
 
 .ztext{
   position:absolute;
-  top:20%;
+  top:15%;
   width:100%;
   text-align:center;
   color:#fff;
