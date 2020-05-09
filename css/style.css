@@ -142,20 +142,24 @@ body, html{
   .pimg1, .pimg2, .pimg3, .pimg4, .pimg5{
     background-attachment:scroll;
   }
+
   .section{
     padding:30px 10px;
   }
+
   .ptext{
     font-size:20px;
     letter-spacing:2px;
     top:58%;
   }
+
   .ztext{
     top:0.5%;
     font-size:12px;
     letter-spacing:2px;
     color:#fff;
   }
+  
   .pimg4{
     /*opacity:0.25;*/
   }
