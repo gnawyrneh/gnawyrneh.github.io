@@ -119,6 +119,9 @@ body, html{
   .section{
     padding:30px 10px;
   }
+  .ptext{
+    font-size:20px;
+  }
   .ztext{
     top:5%;
   }
