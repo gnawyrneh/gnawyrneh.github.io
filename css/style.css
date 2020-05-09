@@ -119,15 +119,16 @@ body, html{
   }
   .ptext{
     font-size:20px;
-    letter-spacing:2px; 
+    letter-spacing:2px;
+    top:58%;
   }
   .ztext{
     top:0.5%;
     font-size:12px;
     letter-spacing:2px;
+        color:#666;
   }
   .pimg4{
     opacity:0.25;
-    color:#666;
   }
 }
