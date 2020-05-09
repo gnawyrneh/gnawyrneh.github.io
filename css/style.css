@@ -48,7 +48,7 @@ body, html{
 
 .section{
   text-align:center;
-  padding:50px 170px;
+  padding:30px 170px;
 }
 
 .section-light{
@@ -85,7 +85,7 @@ body, html{
 
 .ztext{
   position:absolute;
-  top:15%;
+  top:10%;
   width:100%;
   text-align:center;
   color:#FFF;
