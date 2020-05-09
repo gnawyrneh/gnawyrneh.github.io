@@ -139,13 +139,17 @@ body, html{
 }
 
 @media(max-width:568px){
-  body, html{
+  /*body,html{
     font-family:"Lato", sans-serif;
-  }
+  }*/
   .pimg1, .pimg2, .pimg3, .pimg4, .pimg5{
     background-attachment:scroll;
   }
-
+  
+  /*.ptext{
+    font-family:"Times New Roman", Times, serif;
+  }*/
+  
   .section{
     padding:30px 10px;
   }
