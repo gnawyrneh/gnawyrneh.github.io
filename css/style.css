@@ -120,9 +120,7 @@ body, html{
     padding:30px 10px;
   }
   .ztext{
-    font-size:14px;
-  }
-  .ptext{
     top:5%;
+    font-size:14px;
   }
 }
