@@ -119,4 +119,7 @@ body, html{
   .section{
     padding:30px 10px;
   }
+  .ztext{
+    font-size:18px;
+  }
 }
