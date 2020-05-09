@@ -125,5 +125,6 @@ body, html{
   .ztext{
     top:0%;
     font-size:12px;
+    letter-spacing:2px;
   }
 }
