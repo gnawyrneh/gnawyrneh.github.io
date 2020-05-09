@@ -161,8 +161,7 @@ body, html{
   }
 
   .budvid{
-    position:relative;
-    overflow:hidden;
-    padding-top:56.25%;
+    width:400;
+    height:225;
   }
 }
