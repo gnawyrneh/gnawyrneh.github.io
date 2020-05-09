@@ -159,4 +159,10 @@ body, html{
   .pimg4{
     /*opacity:0.25;*/
   }
+
+  .budvid{
+    position:relative;
+    overflow:hidden;
+    padding-top:56.25%;
+  }
 }
