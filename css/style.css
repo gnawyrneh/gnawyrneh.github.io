@@ -194,7 +194,8 @@ body, html{
   }
 
   .pimg4{
-    /*opacity:0.25;*/
+    background: radial-gradient(hotpink, transparent);
+    height: 180px;
   }
 
   .column{
