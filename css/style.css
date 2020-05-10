@@ -193,10 +193,9 @@ body, html{
     color:#FFF;
   }
 
-  .pimg4{
-    background: radial-gradient(hotpink, transparent);
-    height: 180px;
-  }
+  /*.pimg4{
+   
+  }*/
 
   .column{
     width:100%;
