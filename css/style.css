@@ -37,6 +37,8 @@ body, html{
 
 
 
+
+
 .pimg1, .pimg4{
   background-image:url('../img/image1.jpg');
   min-height:100%;
@@ -55,6 +57,10 @@ body, html{
 .pimg5{
   background-image:url('../img/image5.jpg');
   min-height:500px;
+}
+
+.image6{
+  width:600px;
 }
 
 .section{
