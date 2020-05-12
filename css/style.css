@@ -199,7 +199,8 @@ body, html{
     color:#FFF;
   }
   .image6{
-    width:300px;
+    width:100%;
+    height:auto;
   }
   /*.pimg4{
    
