@@ -170,6 +170,16 @@ body, html{
   flex:50%;
 }
 
+.grades20192020{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.grades20192020 td{
+  border: 1px solid #e3e3e3;
+  padding: 4px 8px;
+}
+
 @media(max-width:568px){
   /*body,html{
     font-family:"Lato", sans-serif;
