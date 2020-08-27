@@ -220,4 +220,11 @@ body, html{
     width:100%;
   }
 
+  .budvid{
+    width:400px;
+    height:225px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 }
